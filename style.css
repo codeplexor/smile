@@ -1,3 +1,17 @@
 .row{
-    height: 20px;
+    height: auto;
+    padding: 50px;
 }
+
+.fa{
+    color: #8080ff;
+    margin-left: 40%;
+}
+
+.col{
+    height: auto;
+    border: 1px solid #ccccff;
+    background-color: #e6e6ff;
+    padding: 50px;
+}
+
